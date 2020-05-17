@@ -9,8 +9,5 @@
         <module name="CinemaApp-RegisterLogIN" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CinemaApp-RegisterLogIN" target="7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
